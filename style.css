@@ -8,6 +8,7 @@ body{
 }
 section{
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 .header-part{
     background-image: url(images/donation5.jpg);
@@ -111,4 +112,36 @@ section{
     border-radius: 5px;
     width: 100%;
 }
+.last{
+    width: 809px;
+    height: 200px;
+    margin-left: 315px;
+    margin-right: 325px;
+    background-color: rgba(255, 244, 214, 1);
+}
+form{
+    text-align: center;
+}
+input,button{
+    padding: 10px 30px;
+    margin-top: 90px;
+}
+input{
+    background-color: rgba(217, 217, 217, 1);
+    border: none;
+}
+button{
+    background-color: #FF5959;
+    border: none;
+}
+footer{
+    background-color: #0B0D17;
+    width: 1140;
+    height: 177;
 
+}
+.foot{
+    color:#FF5959 ;
+    text-align: center;
+    padding: 43px 529px;
+}
