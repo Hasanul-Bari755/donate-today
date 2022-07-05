@@ -97,3 +97,18 @@ section{
 #plan-3{
     background-color: rgb(189, 167, 111);
 }
+.mans{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.man{
+    margin-left: 30px;
+    margin-right: 20px;
+    width: 100%;
+}
+.man-img img{
+    border-radius: 5px;
+    width: 100%;
+}
+
